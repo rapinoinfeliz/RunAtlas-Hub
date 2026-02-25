@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[87453,["/RunAtlas-Hub/_next/static/chunks/589f8cd06b036088.js"],"default"]
 3:I[95508,["/RunAtlas-Hub/_next/static/chunks/589f8cd06b036088.js"],"default"]
-0:{"buildId":"MTYsTERHzulEm7nnXqosJ","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"X8os2RyeTrWEq9PqSWhEN","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
