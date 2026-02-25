@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[47177,["/RunAtlas-Hub/_next/static/chunks/589f8cd06b036088.js"],"ViewportBoundary"]
+3:I[47177,["/RunAtlas-Hub/_next/static/chunks/589f8cd06b036088.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[20739,["/RunAtlas-Hub/_next/static/chunks/589f8cd06b036088.js"],"IconMark"]
+0:{"buildId":"MTYsTERHzulEm7nnXqosJ","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"RunAtlas Hub"}],["$","meta","1",{"name":"description","content":"Sports, Technology, and Code. A portfolio of projects by rapinoinfeliz."}],["$","link","2",{"rel":"icon","href":"/RunAtlas-Hub/icon.png?icon.06da2cd0.png","sizes":"640x640","type":"image/png"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
