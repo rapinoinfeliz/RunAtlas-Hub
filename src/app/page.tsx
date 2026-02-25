@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import { ProjectCard } from "@/components/ProjectCard";
 import { projects } from "@/lib/projects";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -25,6 +26,18 @@ export default function Home() {
               <span className="relative inline-flex rounded-full h-2 w-2 bg-primary"></span>
             </span>
             Building tools for athletes
+          </div>
+
+          <div className="mb-8">
+            <Image
+              src="/logo.png"
+              alt="RunAtlas Logo"
+              width={96}
+              height={96}
+              className="rounded-2xl shadow-2xl shadow-primary/20 border border-white/10"
+              priority
+              unoptimized
+            />
           </div>
 
           <h1 className="text-5xl sm:text-6xl md:text-7xl font-heading font-bold tracking-tight text-white mb-6">
